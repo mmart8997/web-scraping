@@ -7,7 +7,7 @@
  3. Realizar uma análise exploratória;
  4. Criar um modelo preditivo.
 
-#### A motivação deste projeto é a possibilidade de treinar algumas habilidades de programação e análises de dados e também aprender novas técnicas.
+#### A motivação deste projeto é a possibilidade de treinar algumas habilidades de programação, análises de dados e também aprender novas técnicas.
 
 #### Conteúdo desse material:
 
